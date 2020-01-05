@@ -1,0 +1,21 @@
+googlesamples-assistant-pushtotalk --project-id ttotto-b2a8b --device-model-id ttotto-b2a8b-ttotto-lyy2gn --display
+
+
+googlesamples-assistant-pushtotalk --project-id ttotto-b2a8b --device-model-id ttotto-b2a8b-ttotto-lyy2gn --lang ko-kr
+
+
+googlesamples-assistant-hotword --device-model-id ttotto-b2a8b-ttotto-lyy2gn
+
+
+python hotword.py --device-model-id ttotto-b2a8b-ttotto-lyy2gn
+
+
+
+경택 개발환경
+python hotword1.py --device-model-id ttotto-b2a8b-ttotto-lyy2gn
+
+문기 개발환경
+python hotword2.py --device-model-id ttotto-b2a8b-ttotto-lyy2gn
+
+정은 개발환경
+python hotword3.py --device-model-id ttotto-b2a8b-ttotto-lyy2gn
